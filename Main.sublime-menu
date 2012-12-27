@@ -1,0 +1,26 @@
+[
+    {
+        "caption": "Tools",
+        "mnemonic": "t",
+        "id": "tools",
+        "children":
+        [
+            {
+                "caption": "OpenCV",
+                "mnemonic": "f",
+                "id": "OpenCV",
+                "children":
+                [
+                    {
+                        "command": "OpenCV_search_selection",
+                        "caption": "Search Selection"
+                    },
+                    {
+                        "command": "OpenCV_search_from_input",
+                        "caption": "Search From Input"
+                    }
+                ]
+            }
+        ]
+    }
+]

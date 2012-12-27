@@ -1,0 +1,7 @@
+Very simple search on OpenCV by Eran WS	(eranws@gmail.com / eranws.github.com)
+
+Please direct any feedback through github at https://github.com/eranws/SearchOpenCV
+
+Thank you for your support.
+
+Eran WS		
